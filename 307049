@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+<link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
+    <title>Hello, world!</title>
+  </head>
+  <body>
+    
+    <div class="container">
+      <header class="bg-primary py-2 text-center">
+        <h2 class="text-white">Developer Yeasin</h2>
+      </header>
+      <div class="jumbotron">
+       <h3 class="text-left">Hi..This Is Yeasin Arafat</h3>
+        <span class="text-left d-block"> <cite>Front-End Web Developer </cite></span>
+        <p class="text-left small text-muted">I am front-end web developer. and now i am learning backend web development.i am work freelancing marketplaces in online(freelancer.com/ fiverr.com/upwork.com and others.  )  <br />
+        This is my portfolio website. </p>
+       <a class="btn btn-primary" href="https://www.freelancer.com/dashboard">HIRE ME</a>
+      </div>
+      <div class="bg-light">
+        <div class="about-me">
+         <h1 class="text-center pb-3">About Me</h1>
+        </div>
+        <div class="row">
+          <div class="col-md-5">
+            <img class="img-fluid rounded-circle" src="IMG_20210710_144350.jpg" alt="" />
+          </div>
+          <div class="col-md-7">
+            <h4 class="text-center py-3">Yeasin Arafat</h4>
+            <p class="text-muted text-center">Hi my self Yeasin Arafat.Front-end web developer.i am from Bangladesh. but i am now malaysia for personal work issue. <br />
+            I am professionally web developer.but still now i am learning backend development. end my self thanks foe reading.  </p>
+            <div class="alert">
+              <div class="alert alert-success alert-dismissible fade show" role="alert">
+  <strong>FOLLOW! </strong> You can follow on Facebook for new update.<a href="https://www.facebook.com/profile.php?id=100004245915848">Visit</a>
+  <button onclick="abcd()" type="button" class="close" data-dismiss="alert" aria-label="Close">
+    <span aria-hidden="true">&times;</span>
+  </button>
+</div>
+<div class="alert alert-warning alert-dismissible fade show" role="alert">
+  <strong>VOTE!</strong> Press ok for learning web design and development.
+  <button onclick="abc()" type="button" class="close" data-dismiss="alert" aria-label="Close">
+    <span aria-hidden="true">ok</span>
+  </button>
+</div>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="customer-review">
+      <h5 class="text-center py-3">Micle</h5>
+<i class="fas fa-3x d-block text-primary text-center pb-3 fa-user-circle"></i>
+       <p class="text-center text-small text-muted">5.0 star
+Generally great!<br />
+Employee (Former Employee) - Remote - June 23, 2021
+While it is stressful, what job is not?
+
+There are a lot of things that needs to be done, but more work means that the company is doing great.
+
+Freebies are really great, like food, drinks, gaming consoles, and more..</p>
+        
+      </div>
+      <div class="customer-review">
+      <h5 class="text-center py-3">Hong lee</h5>
+<i class="fas text-primary fa-3x d-block text-center pb-3 fa-user-circle"></i>
+       <p class="text-center text-muted">Customer Service: Miss/Madam Lauren - profile issues
+ March 23rd, 2021
+Verified purchase 
+I get support from customer service on profile issues and it's actually not a big deal for me, but maybe this becomes a serious topic if wrong over the actions. But thanks to the services of Miss / Madam Lauren, it was all done in just a few minutes. I am truly grateful to him for successfully overcoming this problem and she was very rational and smart in choosing the right course of action for the problem I was facing.</p>
+        
+      </div>
+      <div class="customer-review">
+      <h5 class="text-center py-3">MR Jhon</h5>
+<i class="fas text-primary fa-3x d-block text-center pb-3 fa-user-circle"></i>
+       <p class="text-center text-muted">Best Customer Support
+ July 8th, 2021
+Verified purchase 
+I've have some issue with a deduction from my account. It was my fault without knowing accepting projects on freelancer platform. But help desk agent her name was Celestine D chat with me and instantly reverse the payment after understanding the scenario. I would say it was the best customer service I've ever got from a foreign site. Gave me some tips how to handle such situations in future. Finally thanks again for your humble support..</p>
+        
+      </div>
+      <footer class="bg-dark text-white text-center">
+        &copy;Copyright disclaimer  
+      </footer>
+    </div>
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+    <script type="text/javascript" charset="utf-8">
+      function abc(){
+        alert("Thanks For Your Vote");
+      }
+      function abcd(){
+        alert("press 'ok' if you close the tab");
+      }
+    </script>
+  </body>
+</html>
